@@ -1,7 +1,6 @@
 .idea
 .log
 .ipynb_checkpoints
-*.ipynb
 logs/blacks/*.log
 logs/tests/*.log
 logs/whites/*.log
